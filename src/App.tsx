@@ -45,7 +45,8 @@ function App() {
                   <Label htmlFor="password">Password</Label>
                   <a
                     href="#"
-                    className="ml-auto inline-block text-sm text-primary underline-offset-4 hover:underline"
+                    className="ml-auto inline-block text-sm text-primary
+                     underline-offset-4 hover:underline"
                   >
                     Forgot your password?
                   </a>
@@ -59,13 +60,17 @@ function App() {
                   />
                   <button
                     type="button"
-                    className="absolute right-0 top-0 h-full px-3 py-2 flex items-center justify-center bg-transparent hover:bg-transparent focus:outline-none border-0"
+                    className="absolute right-0 top-0 h-full px-3 py-2 flex 
+                    items-center justify-center bg-transparent 
+                    hover:bg-transparent focus:outline-none border-0"
                     onClick={() => setShowPassword(!showPassword)}
                   >
                     {showPassword ? (
-                      <Eye className="h-4 w-4 text-muted-foreground hover:text-foreground transition-colors" />
+                      <Eye className="h-4 w-4 text-muted-foreground 
+                      hover:text-foreground transition-colors" />
                     ) : (
-                      <EyeOff className="h-4 w-4 text-muted-foreground hover:text-foreground transition-colors" />
+                      <EyeOff className="h-4 w-4 text-muted-foreground 
+                      hover:text-foreground transition-colors" />
                     )}
                     <span className="sr-only">
                       {showPassword ? "Hide password" : "Show password"}
@@ -80,7 +85,8 @@ function App() {
           <Button className="w-full">
             Login
           </Button>
-          <Button variant="outline" className="w-full bg-secondary/50 hover:bg-secondary/70">
+          <Button variant="outline" className="w-full bg-secondary/50 
+          hover:bg-secondary/70">
             Login with Google
           </Button>
         </CardFooter>
