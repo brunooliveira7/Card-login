@@ -24,5 +24,5 @@ O foco principal é a criação de uma interface de autenticação moderna, aces
 ---
 
 <p align="center">
-  <img alt="Refund-web" src="">
+  <img alt="Refund-web" src="https://github.com/brunooliveira7/Card-login/blob/main/src/assets/Layout%20-%20Card-login.png">
 </p>
