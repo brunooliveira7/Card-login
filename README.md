@@ -10,8 +10,8 @@ O foco principal é a criação de uma interface de autenticação moderna, aces
 - Componentes reutilizáveis: `Button`, `Card`, `Input`, `Label`.
 - Estilo personalizado com **Tailwind CSS** e tema customizado.
 - **Responsividade** e **acessibilidade** via Radix UI.
-- Título da página definido como `Card Login`.
-- Código limpo com padrão de estilo utilizando **ESLint**.
+
+---
 
 ## 🧱 Tecnologias Utilizadas
 
@@ -20,3 +20,9 @@ O foco principal é a criação de uma interface de autenticação moderna, aces
 - [Vite]
 - [Tailwind CSS]
 - [Radix UI]
+
+---
+
+<p align="center">
+  <img alt="Refund-web" src="">
+</p>
