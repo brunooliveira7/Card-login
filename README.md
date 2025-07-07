@@ -26,3 +26,11 @@ O foco principal é a criação de uma interface de autenticação moderna, aces
 <p align="center">
   <img alt="Refund-web" src="https://github.com/brunooliveira7/Card-login/blob/main/src/assets/Layout%20-%20Card-login.png">
 </p>
+
+---
+
+### ✍️ Autor
+Desenvolvido por Bruno Oliveira 🧠
+
+## 📝 Licença
+Este projeto está sob a licença MIT.
